@@ -9,3 +9,9 @@
       - ASPNETCORE_URLS=http://+:80
     ports:
       - "8084:80"
+    networks:
+      - proxy
+
+networks:
+  proxy:
+    external: true
