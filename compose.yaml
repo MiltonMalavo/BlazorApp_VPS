@@ -1,11 +1,11 @@
 ﻿services:
   blazorapp2:
     image: blazorapp2
+    container_name: blazorapp2
+    restart: always
+    environment:
+      - ASPNETCORE_URLS=http://+:80
     ports:
       - "8084:80"
-    build:
-      context: .
-      dockerfile: BlazorApp2/Dockerfile
- 
       
 
