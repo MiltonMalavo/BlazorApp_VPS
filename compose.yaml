@@ -1,0 +1,11 @@
+﻿services:
+  blazorapp2:
+    image: blazorapp2
+    ports:
+      - "8084:80"
+    build:
+      context: .
+      dockerfile: BlazorApp2/Dockerfile
+ 
+      
+
