@@ -81,3 +81,4 @@
 /Users/miltonmalavo/Desktop/MiltonMalavo/BlazorApp2/BlazorApp2/obj/Debug/net10.0/BlazorApp2.pdb
 /Users/miltonmalavo/Desktop/MiltonMalavo/BlazorApp2/BlazorApp2/obj/Debug/net10.0/BlazorApp2.genruntimeconfig.cache
 /Users/miltonmalavo/Desktop/MiltonMalavo/BlazorApp2/BlazorApp2/obj/Debug/net10.0/ref/BlazorApp2.dll
+/Users/miltonmalavo/Desktop/MiltonMalavo/BlazorApp2/BlazorApp2/obj/Debug/net10.0/BlazorApp2.sourcelink.json
